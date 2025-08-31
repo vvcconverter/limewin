@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://limewin.ru/sitemap.xml
+Sitemap: https://bunduqia.github.io/limewin/sitemap.xml
 
 # Disallow admin and private areas
 Disallow: /wp-admin/
@@ -24,3 +24,4 @@ Crawl-delay: 1
 
 # Host
 Host: https://limewin.ru
+
